@@ -1,0 +1,7 @@
+---
+applications:
+  - name: Dan-Data
+    path: target/Dan-Data-1.0-SNAPSHOT.jar
+    services:
+      - mydb
+
